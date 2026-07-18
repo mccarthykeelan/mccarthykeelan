@@ -1,6 +1,6 @@
-# Hi, I'm Keelan 👋
+# <h1 align="center">Hi, I'm Keelan 👋</h1>
 
-## 🚀 Aspiring JavaScript Full Stack Engineer 🇮🇪
+## <h3 align="center">🚀 Aspiring JavaScript Full Stack Engineer Ireland</h3>
 
 I'm a software development student and passionate developer from Ireland, focused on building modern, scalable applications and continuously improving my engineering skills.
 
